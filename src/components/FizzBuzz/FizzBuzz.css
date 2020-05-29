@@ -1,0 +1,8 @@
+.list-type{
+    list-style-type: none;
+    list-style: none;
+    color: darkorange;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 20px;
+}
