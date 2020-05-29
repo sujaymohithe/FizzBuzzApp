@@ -1,7 +1,7 @@
 Fizz Buzz React App
 
 ### `ABOUT PROJECT`
-Project created using react components that show the numbers from 1 to a limit that is specified by a prop (e.g. 100).
+Project is created using react components that show the numbers from 1 to a limit that is specified by a prop (e.g. 100).
 The numbers should be translated as follows:
 	1. For multiples of 3 return "Fizz"
 	2. For multiples of 5 return "Buzz"
